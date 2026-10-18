@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "solver/issue-1307-30-a0",
+    "solver/issue-1307-safe-timeout-outcome"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "solver/issue-1307-30-a0": "main",
+    "solver/issue-1307-safe-timeout-outcome": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "solver/issue-1307-30-a0",
+    "solver/issue-1307-safe-timeout-outcome"
+  ]
+}
